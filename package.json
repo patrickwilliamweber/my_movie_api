@@ -19,7 +19,8 @@
     },
     "homepage": "https://github.com/patrickwilliamweber/my_movie_api#readme",
     "dependencies": {
-        "lodash": "^4.17.21"
+        "lodash": "^4.17.21",
+        "morgan": "^1.10.0"
     },
     "devDependencies": {
         "eslint": "^7.28.0"
